@@ -1,2 +1,1 @@
-# TextLiteJs
-It's a responsive website using Html, Css, Javascript and TextLite js
+https://vishal1848.github.io/TextLiteJs/
