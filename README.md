@@ -1,1 +1,1 @@
-(https://vishal1848.github.io/TextLiteJs/)
+https://vishal1848.github.io/TextLiteJs/
